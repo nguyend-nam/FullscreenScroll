@@ -1,13 +1,9 @@
-# Fullscreen Scrolling Slideshow 
+# Fullscreen Scrolling Slideshow
 
 A fullscreen scroll-based slideshow with a content view powered by GreenSock's Observer plugin.
 
-![Fullscreen Scrolling Slideshow](https://tympanus.net/codrops/wp-content/uploads/2022/08/fullscreenscroll_feat.jpg)
-
-[Article on Codrops](https://tympanus.net/codrops/?p=64521)
-
-[Demo](http://tympanus.net/Development/FullscreenScroll/)
-
+![Fullscreen Scrolling Slideshow](/src/img/1.jpg)
+![Fullscreen Scrolling Slideshow](/src/img/5.jpg)
 
 ## Installation
 
@@ -31,18 +27,5 @@ npm run build
 
 ## Credits
 
+- Template from [Codrops](https://tympanus.net/codrops/?p=64521)
 - Images from [Unsplash](https://unsplash.com/)
-
-## Misc
-
-Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/codrops), [GitHub](https://github.com/codrops), [Instagram](https://www.instagram.com/codropsss/)
-
-## License
-[MIT](LICENSE)
-
-Made with :blue_heart:  by [Codrops](http://www.codrops.com)
-
-
-
-
-
